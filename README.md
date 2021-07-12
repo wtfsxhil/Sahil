@@ -15,7 +15,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/552052137878880256.png)
+![Discord](https://discord.c99.nl/widget/theme-1/526068837502681089.png)
 
 Hey, I'm Phantom, a Web Developer 🚀, Back End Developer from India. ~~And a Weeb.~~
 
