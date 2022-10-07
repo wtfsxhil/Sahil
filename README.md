@@ -22,7 +22,7 @@ Hey, I'm Sahil, a Web Developer 🚀, Back End Developer from India. ~~And a Wee
 - 💬 Ask me about  Anything related to **Tech.**
 - 📫 Contact me at :  **sj4770089@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
+- ⚡ Fun fact : **JavaScript.**
 
 **Languages and Tools:**  
 
