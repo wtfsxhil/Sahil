@@ -42,13 +42,6 @@ Hey, I'm Sahil, a Web Developer 🚀, Back End Developer from India. ~~And a Wee
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 
 
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Phantom6969&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Phantom6969&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom6969&theme=tokyonight&hide=batchfile">
-
-
 
 
 
