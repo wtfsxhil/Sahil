@@ -1,14 +1,8 @@
-### Hi there 👋, I'm Phantom OP.
+### Hi there 👋, I'm Sahkl.
 
 <br/>
-<a href="https://www.instagram.com/">
-  <img align="left" alt="Phantom Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.com/users/">
-    <img align ="left" alt="Phantom's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
-  <a href="https://twitter.com">
-    <img align ="left" alt="Phantom's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://discord.com/users/526068837502681089">
+    <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
 ![](https://visitors-badge.glitch.me/badge?page_id=Phantom6969.Phantom6969)
@@ -17,7 +11,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/526068837502681089.png)
 
-Hey, I'm Phantom, a Web Developer 🚀, Back End Developer from India. ~~And a Weeb.~~
+Hey, I'm Sahil, a Web Developer 🚀, Back End Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
