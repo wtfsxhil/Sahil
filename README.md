@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sahkl.
+### Hi there 👋, I'm Sahil.
 
 <br/>
 <a href="https://discord.com/users/526068837502681089">
