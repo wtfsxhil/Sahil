@@ -11,7 +11,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/526068837502681089.png)
 
-Hey, I'm Sahil, a Web Developer 🚀, Back End Developer from India. ~~And a Weeb.~~
+Hey, I'm Sahil, a Frontend Developer 🚀, from India.
 
  **Information:**
 
